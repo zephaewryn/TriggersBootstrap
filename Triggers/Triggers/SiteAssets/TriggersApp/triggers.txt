@@ -23,7 +23,20 @@
          
          <div class='quadrant1'>
              <div class='gridView'>
-             GridView goes here
+             GridView goes here <br>
+			 Test Data for Cube: <br><br>
+
+			 <table>
+				<th><td>Trigger</td><td>Issue</tr><td>Severity</td><td>Type</td><
+				<tr>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+				</tr>
 			</div>        
          </div>
          <div class='quadrant2'>

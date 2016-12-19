@@ -60,6 +60,20 @@
       <FeatureId>{dab9be81-d6d2-420a-8ee0-57127b04365b}</FeatureId>
     </None>
     <None Include="key.snk" />
+    <None Include="ListTemplates\Acronyms.stp" />
+    <None Include="ListTemplates\EventReference.stp" />
+    <None Include="ListTemplates\Feedback.stp" />
+    <None Include="ListTemplates\IssueAndRiskReference.stp" />
+    <None Include="ListTemplates\PEO.STP" />
+    <None Include="ListTemplates\PhaseReference.stp" />
+    <None Include="ListTemplates\PMA.STP" />
+    <None Include="ListTemplates\Profile.stp" />
+    <None Include="ListTemplates\ProgramIssuesAndRisks.stp" />
+    <None Include="ListTemplates\References.stp" />
+    <None Include="ListTemplates\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{1b30a837-bad5-4fc3-bc30-3f57c1537c40}</SharePointProjectItemId>
+    </None>
+    <None Include="ListTemplates\Triggers.stp" />
     <None Include="Package\Package.package">
       <PackageId>{eb8feaee-58c9-40cc-850a-945023fbda26}</PackageId>
     </None>
@@ -82,10 +96,11 @@
     <Content Include="Features\TriggersSiteAssets\TriggersSiteAssets.Template.xml">
       <DependentUpon>TriggersSiteAssets.feature</DependentUpon>
     </Content>
+    <Content Include="ListTemplates\Elements.xml" />
     <Content Include="SiteAssets\Elements.xml">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="SiteAssets\Images\triggers_1a_dropshadow.png" />
+    <Content Include="SiteAssets\Style\Images\triggers_1a_dropshadow.png" />
     <Content Include="SiteAssets\ScriptLibrary\DataTables-1.10.13\css\jquery.dataTables.min.css" />
     <Content Include="SiteAssets\ScriptLibrary\DataTables-1.10.13\js\jquery.dataTables.min.js" />
     <Content Include="SiteAssets\ScriptLibrary\jquery-1.10.1.min.js" />

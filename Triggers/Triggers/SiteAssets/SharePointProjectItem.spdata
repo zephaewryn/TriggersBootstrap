@@ -2,7 +2,7 @@
 <ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
   <Files>
     <ProjectItemFile Source="Elements.xml" Target="SiteAssets\" Type="ElementManifest" />
-    <ProjectItemFile Source="Images\triggers_1a_dropshadow.png" Target="SiteAssets\Images\" Type="ElementFile" />
+    <ProjectItemFile Source="Style\Images\triggers_1a_dropshadow.png" Target="SiteAssets\Style\Images\" Type="ElementFile" />
     <ProjectItemFile Source="TriggersApp\Css\triggers.css" Target="SiteAssets\TriggersApp\Css\" Type="ElementFile" />
     <ProjectItemFile Source="ScriptLibrary\jquery-1.10.1.min.js" Target="SiteAssets\ScriptLibrary\" Type="ElementFile" />
     <ProjectItemFile Source="ScriptLibrary\DataTables-1.10.13\js\jquery.dataTables.min.js" Target="SiteAssets\ScriptLibrary\DataTables-1.10.13\js\" Type="ElementFile" />
