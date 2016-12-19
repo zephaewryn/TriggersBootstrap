@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="eb8feaee-58c9-40cc-850a-945023fbda26" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Triggers.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Triggers_TriggersSiteAssets\Feature.xml" />
+    <FeatureManifest Location="Triggers_TriggersMasterPage\Feature.xml" />
+  </FeatureManifests>
+</Solution>

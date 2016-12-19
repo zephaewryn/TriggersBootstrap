@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Triggers List Templates" Url="_catalogs/lt" Path="">
+    <File Path="Triggers List Templates\Acronyms.stp" Url="Triggers List Templates/Acronyms.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\EventReference.stp" Url="Triggers List Templates/EventReference.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\Feedback.stp" Url="Triggers List Templates/Feedback.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\IssueAndRiskReference.stp" Url="Triggers List Templates/IssueAndRiskReference.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\Links.stp" Url="Triggers List Templates/Links.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\PEO.STP" Url="Triggers List Templates/PEO.STP"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\PhaseReference.stp" Url="Triggers List Templates/PhaseReference.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\PMA.STP" Url="Triggers List Templates/PMA.STP"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\Profile2.stp" Url="Triggers List Templates/Profile2.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+    <File Path="Triggers List Templates\References.stp" Url="Triggers List Templates/References.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists ="TRUE" />
+  </Module>
+</Elements>

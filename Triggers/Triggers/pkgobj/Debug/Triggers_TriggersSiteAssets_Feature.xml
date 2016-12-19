@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Triggers Site Assets" Id="c5c46bf2-5387-4024-9bd1-98d0ee5e52ae" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="SiteAssets\Elements.xml" />
+    <ElementFile Location="SiteAssets\Images\triggers_1a_dropshadow.png" />
+    <ElementFile Location="SiteAssets\TriggersApp\Css\triggers.css" />
+    <ElementFile Location="SiteAssets\ScriptLibrary\jquery-1.10.1.min.js" />
+    <ElementFile Location="SiteAssets\ScriptLibrary\DataTables-1.10.13\js\jquery.dataTables.min.js" />
+    <ElementFile Location="SiteAssets\ScriptLibrary\DataTables-1.10.13\css\jquery.dataTables.min.css" />
+    <ElementFile Location="SiteAssets\TriggersApp\triggers.txt" />
+    <ElementFile Location="SiteAssets\Style\custom.css" />
+    <ElementFile Location="SiteAssets\TriggersApp\js\triggers.js" />
+    <ElementFile Location="SiteAssets\TriggersApp\js\triggers2.js" />
+  </ElementManifests>
+</Feature>

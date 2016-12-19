@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="eb8feaee-58c9-40cc-850a-945023fbda26" solutionId="eb8feaee-58c9-40cc-850a-945023fbda26" resetWebServer="false" sharePointProductVersion="15.0" name="Triggers" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="dab9be81-d6d2-420a-8ee0-57127b04365b" />
+    <featureReference itemId="8d2af327-a4f4-4944-96fc-aceb268179ab" />
+  </features>
+</package>

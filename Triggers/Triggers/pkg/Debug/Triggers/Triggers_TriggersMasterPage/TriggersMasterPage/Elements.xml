@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="TriggersMasterPage" List="116" Url="_catalogs/masterpage"  >
+    <File Path="TriggersMasterPage\TriggerBootstrap.html" Url="TriggersMasterPage/TriggerBootstrap.html" Type="GhostableInLibrary"   ReplaceContent="TRUE"/>
+    <File Path="TriggersMasterPage\TriggerBootstrap.master" Url="TriggersMasterPage/TriggerBootstrap.master" Type="GhostableInLibrary"    ReplaceContent="TRUE"/>
+  </Module>
+</Elements>

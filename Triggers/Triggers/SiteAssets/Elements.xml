@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SiteAssets">
+    <File Path="SiteAssets\Images\triggers_1a_dropshadow.png" Url="SiteAssets/Images/triggers_1a_dropshadow.png" ReplaceContent="True" />
+    <File Path="SiteAssets\TriggersApp\Css\triggers.css" Url="SiteAssets/TriggersApp/Css/triggers.css" />
+    <File Path="SiteAssets\ScriptLibrary\jquery-1.10.1.min.js" Url="SiteAssets/ScriptLibrary/jquery-1.10.1.min.js"  ReplaceContent="True"/>
+    <File Path="SiteAssets\ScriptLibrary\DataTables-1.10.13\js\jquery.dataTables.min.js" Url="SiteAssets/ScriptLibrary/DataTables-1.10.13/js/jquery.dataTables.min.js"  ReplaceContent="True"/>
+    <File Path="SiteAssets\ScriptLibrary\DataTables-1.10.13\css\jquery.dataTables.min.css" Url="SiteAssets/ScriptLibrary/DataTables-1.10.13/css/jquery.dataTables.min.css"  ReplaceContent="True"/>
+    <File Path="SiteAssets\TriggersApp\triggers.txt" Url="SiteAssets/TriggersApp/triggers.txt" ReplaceContent="True" />
+    <File Path="SiteAssets\Style\custom.css" Url="SiteAssets/Style/custom.css" ReplaceContent="True" />
+    <File Path="SiteAssets\TriggersApp\js\triggers.js" Url="SiteAssets/TriggersApp/js/triggers.js"  ReplaceContent="True"/>
+    <File Path="SiteAssets\TriggersApp\js\triggers2.js" Url="SiteAssets/TriggersApp/js/triggers2.js"  ReplaceContent="True"/>
+  </Module>
+</Elements>
