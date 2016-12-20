@@ -11,5 +11,6 @@
     <ProjectItemFile Source="Style\custom.css" Target="SiteAssets\Style\" Type="ElementFile" />
     <ProjectItemFile Source="TriggersApp\js\triggers.js" Target="SiteAssets\TriggersApp\js\" Type="ElementFile" />
     <ProjectItemFile Source="TriggersApp\js\triggers2.js" Target="SiteAssets\TriggersApp\js\" Type="ElementFile" />
+    <ProjectItemFile Source="TriggersApp\js\listMethods.js" Target="SiteAssets\TriggersApp\js\" Type="ElementFile" />
   </Files>
 </ProjectItem>

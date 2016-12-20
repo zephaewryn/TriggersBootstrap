@@ -63,6 +63,7 @@
     <None Include="Features\TriggersSiteAssets\TriggersSiteAssets.feature">
       <FeatureId>{dab9be81-d6d2-420a-8ee0-57127b04365b}</FeatureId>
     </None>
+    <None Include="ListTemplates\ProgramEvents.stp" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{9aa88b40-6dc8-415e-843a-d27a785db1b5}</SharePointProjectItemId>
     </None>
@@ -117,6 +118,7 @@
     <Content Include="SiteAssets\ScriptLibrary\jquery-1.10.1.min.js" />
     <Content Include="SiteAssets\Style\custom.css" />
     <Content Include="SiteAssets\TriggersApp\Css\triggers.css" />
+    <Content Include="SiteAssets\TriggersApp\js\listMethods.js" />
     <Content Include="SiteAssets\TriggersApp\js\triggers.js" />
     <Content Include="SiteAssets\TriggersApp\js\triggers2.js" />
     <Content Include="SiteAssets\TriggersApp\triggers.txt" />

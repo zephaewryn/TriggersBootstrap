@@ -13,5 +13,6 @@
     <ProjectItemFile Source="ProgramIssuesAndRisks.stp" Target="ListTemplates\" Type="ElementFile" />
     <ProjectItemFile Source="References.stp" Target="ListTemplates\" Type="ElementFile" />
     <ProjectItemFile Source="Triggers.stp" Target="ListTemplates\" Type="ElementFile" />
+    <ProjectItemFile Source="ProgramEvents.stp" Target="ListTemplates\" Type="ElementFile" />
   </Files>
 </ProjectItem>

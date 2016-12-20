@@ -159,3 +159,4 @@ C:\Users\Administrator.CONTOSO\Source\Repos\Triggers2\TriggersBootstrap\Triggers
 C:\Users\Administrator.CONTOSO\Source\Repos\Triggers2\TriggersBootstrap\Triggers\Triggers\bin\Debug\zh-Hant\System.Spatial.resources.dll
 C:\Users\Administrator.CONTOSO\Source\Repos\Triggers2\TriggersBootstrap\Triggers\Triggers\obj\Debug\Triggers.dll
 C:\Users\Administrator.CONTOSO\Source\Repos\Triggers2\TriggersBootstrap\Triggers\Triggers\obj\Debug\Triggers.pdb
+C:\Users\Administrator.CONTOSO\Source\Repos\Triggers2\TriggersBootstrap\Triggers\Triggers\obj\Debug\Triggers.csprojResolveAssemblyReference.cache

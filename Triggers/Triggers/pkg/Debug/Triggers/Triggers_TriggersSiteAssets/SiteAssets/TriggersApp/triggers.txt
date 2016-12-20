@@ -18,7 +18,7 @@
 
 			 <table class='MyProgramIssuesTable'>
 			    <tr>
-				<th><ID</th><th>Trigger</th><th>Issue</th><th>Severity</th><th>Type</th><th></th><th>Type</th><th>Likelihood</th><th>Consequence</th>
+				<td><ID</td><td>Trigger</td><td>Issue</td><td>Severity</td><td>Type</td><td></th><td>Type</td><td>Likelihood</td><td>Consequence</td>
 				</tr>
 				<tr class='IssueRow' >
 					<td>1</td><td>Overflying</td><td>Spares Shortfall</td><td>High</td><td>Cost</td><td>2</td><td>5</td>

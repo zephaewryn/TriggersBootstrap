@@ -12,5 +12,6 @@
     <File Path="ListTemplates\ProgramIssuesAndRisks.stp" Url="ListTemplates/ProgramIssuesAndRisks.stp" />
     <File Path="ListTemplates\References.stp" Url="ListTemplates/References.stp" />
     <File Path="ListTemplates\Triggers.stp" Url="ListTemplates/Triggers.stp" />
+    <File Path="ListTemplates\ProgramEvents.stp" Url="ListTemplates/ProgramEvents.stp" />
   </Module>
 </Elements>

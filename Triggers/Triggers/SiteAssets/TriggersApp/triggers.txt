@@ -2,6 +2,7 @@
 	<script src="../SiteAssets/ScriptLibrary/jquery-1.10.1.min.js" type="text/javascript"></script>	
 	<script src="../SiteAssets/TriggersApp/js/triggers.js" type="text/javascript"></script>
 	<script src="../SiteAssets/TriggersApp/js/triggers2.js" type="text/javascript"></script>
+	<script src="../SiteAssets/TriggersApp/js/listMethods.js" type="text/javascript"></script>
     <script src="../SiteAssets/ScriptLibrary/DataTables-1.10.13/js/jquery.dataTables.min.js"></script>
 
 	<link rel="stylesheet" type="text/css" href="../SiteAssets/ScriptLibrary/DataTables-1.10.13/css/jquery.dataTables.min.css"></link>
@@ -18,7 +19,7 @@
 
 			 <table class='MyProgramIssuesTable'>
 			    <tr>
-				<th><ID</th><th>Trigger</th><th>Issue</th><th>Severity</th><th>Type</th><th></th><th>Type</th><th>Likelihood</th><th>Consequence</th>
+				<td><ID</td><td>Trigger</td><td>Issue</td><td>Severity</td><td>Type</td><td></th><td>Type</td><td>Likelihood</td><td>Consequence</td>
 				</tr>
 				<tr class='IssueRow' >
 					<td>1</td><td>Overflying</td><td>Spares Shortfall</td><td>High</td><td>Cost</td><td>2</td><td>5</td>

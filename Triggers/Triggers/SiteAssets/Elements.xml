@@ -10,5 +10,6 @@
     <File Path="SiteAssets\Style\custom.css" Url="SiteAssets/Style/custom.css" ReplaceContent="True" />
     <File Path="SiteAssets\TriggersApp\js\triggers.js" Url="SiteAssets/TriggersApp/js/triggers.js"  ReplaceContent="True"/>
     <File Path="SiteAssets\TriggersApp\js\triggers2.js" Url="SiteAssets/TriggersApp/js/triggers2.js"  ReplaceContent="True"/>
+    <File Path="SiteAssets\TriggersApp\js\listMethods.js" Url="SiteAssets/TriggersApp/js/listMethods.js" />
   </Module>
 </Elements>
