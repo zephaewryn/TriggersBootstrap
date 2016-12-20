@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="100c8209-ec07-447b-9b65-abd84d4a1414" Scope="Web" Title="Site Pages">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+  </ElementManifests>
+</Feature>

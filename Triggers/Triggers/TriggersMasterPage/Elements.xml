@@ -3,5 +3,6 @@
   <Module Name="TriggersMasterPage" List="116" Url="_catalogs/masterpage"  >
     <File Path="TriggersMasterPage\TriggerBootstrap.html" Url="TriggersMasterPage/TriggerBootstrap.html" Type="GhostableInLibrary"   ReplaceContent="TRUE"/>
     <File Path="TriggersMasterPage\TriggerBootstrap.master" Url="TriggersMasterPage/TriggerBootstrap.master" Type="GhostableInLibrary"    ReplaceContent="TRUE"/>
+    <File Path="TriggersMasterPage\key.snk" Url="TriggersMasterPage/key.snk" />
   </Module>
 </Elements>

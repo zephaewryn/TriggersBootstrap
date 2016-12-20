@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Triggers Masterpage" Id="1b8be853-2dca-4f13-9d3b-527ac636d87f" Scope="Site">
-  <ElementManifests>
-    <ElementManifest Location="TriggersMasterPage\Elements.xml" />
-    <ElementFile Location="TriggersMasterPage\TriggerBootstrap.html" />
-    <ElementFile Location="TriggersMasterPage\TriggerBootstrap.master" />
-  </ElementManifests>
-</Feature>

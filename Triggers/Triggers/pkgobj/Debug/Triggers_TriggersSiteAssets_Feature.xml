@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Triggers Site Assets" Id="c5c46bf2-5387-4024-9bd1-98d0ee5e52ae" Scope="Web">
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="c5c46bf2-5387-4024-9bd1-98d0ee5e52ae" Scope="Web" Title="Triggers Site Assets">
   <ElementManifests>
     <ElementManifest Location="SiteAssets\Elements.xml" />
-    <ElementFile Location="SiteAssets\Images\triggers_1a_dropshadow.png" />
+    <ElementFile Location="SiteAssets\Style\Images\triggers_1a_dropshadow.png" />
     <ElementFile Location="SiteAssets\TriggersApp\Css\triggers.css" />
     <ElementFile Location="SiteAssets\ScriptLibrary\jquery-1.10.1.min.js" />
     <ElementFile Location="SiteAssets\ScriptLibrary\DataTables-1.10.13\js\jquery.dataTables.min.js" />
@@ -11,5 +11,17 @@
     <ElementFile Location="SiteAssets\Style\custom.css" />
     <ElementFile Location="SiteAssets\TriggersApp\js\triggers.js" />
     <ElementFile Location="SiteAssets\TriggersApp\js\triggers2.js" />
+    <ElementManifest Location="ListTemplates\Elements.xml" />
+    <ElementFile Location="ListTemplates\Acronyms.stp" />
+    <ElementFile Location="ListTemplates\EventReference.stp" />
+    <ElementFile Location="ListTemplates\Feedback.stp" />
+    <ElementFile Location="ListTemplates\IssueAndRiskReference.stp" />
+    <ElementFile Location="ListTemplates\PEO.STP" />
+    <ElementFile Location="ListTemplates\PhaseReference.stp" />
+    <ElementFile Location="ListTemplates\PMA.STP" />
+    <ElementFile Location="ListTemplates\Profile.stp" />
+    <ElementFile Location="ListTemplates\ProgramIssuesAndRisks.stp" />
+    <ElementFile Location="ListTemplates\References.stp" />
+    <ElementFile Location="ListTemplates\Triggers.stp" />
   </ElementManifests>
 </Feature>

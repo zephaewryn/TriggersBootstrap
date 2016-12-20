@@ -37,13 +37,14 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>TriggersMasterPage\key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="Microsoft.SharePoint" />
@@ -53,13 +54,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Features\Site Pages\Site Pages.feature">
+      <FeatureId>{795278c9-ebc7-4ecd-8066-fc500aed4abe}</FeatureId>
+    </None>
     <None Include="Features\TriggersMasterPage\TriggersMasterPage.feature">
       <FeatureId>{8d2af327-a4f4-4944-96fc-aceb268179ab}</FeatureId>
     </None>
     <None Include="Features\TriggersSiteAssets\TriggersSiteAssets.feature">
       <FeatureId>{dab9be81-d6d2-420a-8ee0-57127b04365b}</FeatureId>
     </None>
-    <None Include="key.snk" />
+    <None Include="Pages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9aa88b40-6dc8-415e-843a-d27a785db1b5}</SharePointProjectItemId>
+    </None>
+    <None Include="TriggersMasterPage\key.snk" />
     <None Include="ListTemplates\Acronyms.stp" />
     <None Include="ListTemplates\EventReference.stp" />
     <None Include="ListTemplates\Feedback.stp" />
@@ -90,6 +97,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Features\Site Pages\Site Pages.Template.xml">
+      <DependentUpon>Site Pages.feature</DependentUpon>
+    </Content>
     <Content Include="Features\TriggersMasterPage\TriggersMasterPage.Template.xml">
       <DependentUpon>TriggersMasterPage.feature</DependentUpon>
     </Content>
@@ -97,6 +107,7 @@
       <DependentUpon>TriggersSiteAssets.feature</DependentUpon>
     </Content>
     <Content Include="ListTemplates\Elements.xml" />
+    <Content Include="Pages\Elements.xml" />
     <Content Include="SiteAssets\Elements.xml">
       <SubType>Designer</SubType>
     </Content>

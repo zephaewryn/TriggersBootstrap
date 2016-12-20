@@ -4,5 +4,6 @@
     <ProjectItemFile Source="Elements.xml" Target="TriggersMasterPage\" Type="ElementManifest" />
     <ProjectItemFile Source="TriggerBootstrap.html" Target="TriggersMasterPage\" Type="ElementFile" />
     <ProjectItemFile Source="TriggerBootstrap.master" Target="TriggersMasterPage\" Type="ElementFile" />
+    <ProjectItemFile Source="key.snk" Target="TriggersMasterPage\" Type="ElementFile" />
   </Files>
 </ProjectItem>

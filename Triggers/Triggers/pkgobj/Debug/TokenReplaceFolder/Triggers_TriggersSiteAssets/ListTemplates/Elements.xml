@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="ListTemplates">
+    <File Path="ListTemplates\Acronyms.stp" Url="ListTemplates/Acronyms.stp" />
+    <File Path="ListTemplates\EventReference.stp" Url="ListTemplates/EventReference.stp" />
+    <File Path="ListTemplates\Feedback.stp" Url="ListTemplates/Feedback.stp" />
+    <File Path="ListTemplates\IssueAndRiskReference.stp" Url="ListTemplates/IssueAndRiskReference.stp" />
+    <File Path="ListTemplates\PEO.STP" Url="ListTemplates/PEO.STP" />
+    <File Path="ListTemplates\PhaseReference.stp" Url="ListTemplates/PhaseReference.stp" />
+    <File Path="ListTemplates\PMA.STP" Url="ListTemplates/PMA.STP" />
+    <File Path="ListTemplates\Profile.stp" Url="ListTemplates/Profile.stp" />
+    <File Path="ListTemplates\ProgramIssuesAndRisks.stp" Url="ListTemplates/ProgramIssuesAndRisks.stp" />
+    <File Path="ListTemplates\References.stp" Url="ListTemplates/References.stp" />
+    <File Path="ListTemplates\Triggers.stp" Url="ListTemplates/Triggers.stp" />
+  </Module>
+</Elements>

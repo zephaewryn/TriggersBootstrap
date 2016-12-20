@@ -5,6 +5,6 @@
   </Assemblies>
   <FeatureManifests>
     <FeatureManifest Location="Triggers_TriggersSiteAssets\Feature.xml" />
-    <FeatureManifest Location="Triggers_TriggersMasterPage\Feature.xml" />
+    <FeatureManifest Location="Triggers_Site Pages\Feature.xml" />
   </FeatureManifests>
 </Solution>

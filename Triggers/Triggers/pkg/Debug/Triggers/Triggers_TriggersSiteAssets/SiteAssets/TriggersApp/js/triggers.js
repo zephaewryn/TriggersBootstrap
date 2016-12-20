@@ -42,10 +42,10 @@
 			            "accept": "application/json;odata=verbose",
 			        },
 			        success: function (data) {
-			        			            if(data.d.results.length === 0)
-			            {
-			            	window.location = appweburl + '/Lists/Profile/Item/newifs.aspx';
-			            }
+			        if(data.d.results.length === 0)
+			        {
+			            window.location = appweburl + '/Lists/Profile/Item/newifs.aspx';
+			        }
 			        },
 			        error: function (error) {
 			            alert(JSON.stringify(error));
